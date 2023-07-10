@@ -1,0 +1,260 @@
+body{
+    background-color: antiquewhite;
+}
+.img{border-radius: 19px;
+}
+.home{
+    display: inline-flex;
+    display: sticky;
+}
+#call{
+    cursor: pointer;
+    margin: 20px 10px 20px 50px;
+    width: 22px;
+    height: 25px;
+}
+#head{
+    display: flex;
+    position: sticky;
+    position:-webkit-sticky;
+    top:0;
+    w
+}
+#para{
+    margin: 29px 20px 20px -10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: 150px;
+    background-color: antiquewhite
+}
+.b{
+    font-size: 25px;
+    color: green;
+    font-weight: bold;
+    margin-left: 340px;
+    word-spacing: 20px;
+    cursor: pointer;
+    background-color:antiquewhite ;
+    
+}
+.line{
+    width: 1200px;
+    color:rgb(110, 110, 95)
+}
+.logo{
+    color: rgb(3, 172, 115);
+    font-size: 15px;
+    display: inline-flex;
+    font-family:'Times New Roman', Times, serif;
+    padding: 8px;
+    margin-left: 90px;
+    position: sticky;
+    top:0;
+    position:-webkit-sticky;
+
+}
+
+.arrows{
+    display:inline-flex;
+    font-size: 9px;
+    margin-top: -1px;
+}
+h4{
+    margin: 20px;
+    cursor: pointer;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    color:  rgb(6, 105, 72)
+}
+h4:hover{
+    color:  rgb(3, 59, 41);
+}
+
+.btn1{
+    color: aliceblue;
+    background-color: rgb(3, 107, 38);
+    border-radius: 16px;
+    margin: 23px;
+    padding: 10px 30px;
+    border: none;
+    transform: translateX(32.25%);
+}
+.btn1:hover{
+    background-color: rgb(250, 251, 252);
+    color:rgb(3, 107, 38) ;
+    border: 1px solid rgb(3, 107, 38) ;
+}
+#buttoncenter{
+    text-align: center;
+    padding-left: 50px;
+    width:1100px;
+    height: 80px;
+   
+}
+.new2 ,.sub12{
+    border-radius: 24px;
+}
+.photos{
+    width:250px;
+    height: 250px;
+    margin: 16px;
+    cursor: pointer;
+    border-radius: 24px;
+    
+}
+.photodiv {
+    max-width: 100%;
+    transition: all 0.3s;
+    width: 100%;
+    height: auto;
+    transform: scale(1);
+}
+.photodiv:hover {
+    transform: scale(1.1);
+}
+.newphoto{
+    display: inline-flex;
+    width: 300px;
+    height:auto ;
+}
+.para1{
+    color: rgb(5, 75, 5);
+    font-size: 30px;
+    box-sizing: border-box;
+    text-align: center;
+    text-decoration: underline;
+
+}
+.main{
+    display: inline-flex;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+.sub{
+    margin-right: 28px;
+}
+.sub1{
+   margin-bottom: -20px;
+
+}
+.sub12{
+    margin-top: 28px;
+}
+.sub2{
+    margin-left: 28px;
+}
+h1{
+    text-align: center;
+    color: rgb(4, 83, 28);
+    background-color: aliceblue;
+}
+p{
+    text-align: center;
+    color: rgb(113, 126, 116);
+    background-color: aliceblue;
+    margin-top: 40px;
+}
+.some{
+    background-color: aliceblue;
+}
+.imgpara{
+    display: inline-flex;
+    background-color: aliceblue;
+}
+.bada{
+    margin: 20px;
+    margin-top: 190px;
+}
+.newing{
+    width: 600px;
+    height: 700px;
+    border-radius: 24px;
+}
+.foot1{
+    text-align: left;
+    width: 190px;
+    
+
+}
+.foot12{
+    display: inline-flex;
+}
+.h5{
+  margin-left: 19px;
+  font-size: 16px;
+  font-family:sans-serif;
+  color: #565852;
+  margin-top: 12px;
+}
+.footimg{
+    cursor: pointer;
+    margin-left: 19px;
+    color: rgb(4, 83, 28);
+}
+.newfoot{
+    margin-left: 19px;
+    color: rgb(4, 83, 28);
+}
+.footh3{
+    font-size: 14px;
+    color: rgb(4, 83, 28);
+    margin-left: 19px;
+    width: 250px;
+}
+.form3{
+    background-color: white;
+    width: 60px;
+    height: 60px;border-radius: 12px;
+}
+.mainfoot{
+    display: inline-flex;
+    margin: 20px;
+}
+.foot2{
+    display: block;
+    margin-left: 90px;
+    cursor: pointer;
+}
+input{
+    width: 150px;
+    height: 50px;
+    border-radius: 23px 0 0 23px;
+    border: 1px solid black;
+    text-align: center;
+}
+.btnsub{
+    width: 70px;
+    border-radius: 0 23px 23px 0;
+    color: aliceblue;
+    background-color: #292727;
+    border: none;
+}
+.btnsub:hover{
+    background-color: rgb(70, 174, 206);
+}
+.foot3{
+    margin-left: 40px;
+}
+.foot4{
+    margin-left: 40px;
+}
+h5{
+    color: #565852;
+    cursor: pointer;
+}
+.fa-light fa-magnifying-glass{
+    width: 70px;
+    height: 70px;
+}
+.minihome{
+    margin-right: 50px;
+    padding-right: 30px;
+    width: 200px;
+    height: 50px;
+    cursor: pointer;
+    text-align: right;
+    margin-left: 350px;
+    margin-top: 30px;
+    
+}
